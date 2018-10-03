@@ -1,0 +1,15 @@
+
+El carro posee: Renaul
+Modelo: Logan
+Color: Gris
+Medio: Terreste
+
+El carro posee: Renaul
+Modelo: Logan
+Color: Gris
+Medio: Terreste
+
+El carro posee: Renaul
+Modelo: Logan
+Color: Gris
+Medio: Terreste
