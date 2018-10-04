@@ -3,16 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package polimorfismo;
+package Contabilidad;
 
 /**
- *
- * @author Manuela García Monsalve 
+ * 28 septiembre 2018
+ * @author manuela garcia
  */
-public class Sistemas {
- 
- 
-  public void sueldo(){
+public class Contabilidad {
+    
+ public void sueldo(){
  }
   
  public void Datos(){ 
@@ -20,4 +19,5 @@ public class Sistemas {
  
  public void Labores(){
  }
+    
 }

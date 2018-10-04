@@ -9,16 +9,17 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author BOG-A408-E-003
+ * @author Manuela García Monsalve
+ * 28 septiembre 2018
  */
 public class Arquitecto  extends Sistemas {
  
  public void sueldo(int horas, double pagos){
-  JOptionPane.showMessageDialog(null, "el pago del arquitecto es:" + (horas*pagos));
+  JOptionPane.showMessageDialog(null, "el pago del arquitecto es: " + (horas*pagos));
   
  }
  public void Datos(String nom, String ape){
-  JOptionPane.showMessageDialog(null, "los datos del arquitecto son:\n Nombre " + nom + "\n  apellidos: "+ ape);
+  JOptionPane.showMessageDialog(null, "los datos del arquitecto son: \n Nombre " + nom + "\n  apellidos: "+ ape);
  }
  public void Labores( String crear){
     JOptionPane.showMessageDialog(null, "el arquitecto hace: " + crear);
