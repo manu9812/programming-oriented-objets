@@ -2,7 +2,7 @@
 /**
  * aqui se creara las interfaces para los retardos de 
  * los empleados
- * 4 septiembre 2018
+
  * @author manuela garcia
  *
  */
