@@ -7,8 +7,7 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Manuela Garcia Monsalve 
- * 4 septiembre 2018
- * cambios
+ 
  */
 public class Empleado extends Persona implements Enfermedades, Retardos{
    static  double sueldo;
@@ -83,8 +82,8 @@ public class Empleado extends Persona implements Enfermedades, Retardos{
     
     
     @Override
-    public void Migraña() {
-    	JOptionPane.showMessageDialog(null, "hola estoy enfermo de migraña ");
+    public void MigraÃ±a() {
+    	JOptionPane.showMessageDialog(null, "hola estoy enfermo de migraÃ±a ");
     }
     
     
@@ -121,12 +120,12 @@ public class Empleado extends Persona implements Enfermedades, Retardos{
 	}
 	@Override
 	public void HabiaTrancon() {
-		JOptionPane.showMessageDialog(null, "LLEGUE TARDE, porque habia mucho trancón ");
+		JOptionPane.showMessageDialog(null, "LLEGUE TARDE, porque habia mucho trancÃ³n ");
 		
 	}
 	@Override
 	public void MeRobaron() {
-		JOptionPane.showMessageDialog(null, "LLEGUE TARDE, porque me robarón  ");
+		JOptionPane.showMessageDialog(null, "LLEGUE TARDE, porque me robarÃ³n  ");
 		
 	}
 }
