@@ -1,7 +1,7 @@
 //Super Clase
 /**
  * voy a usar esta super clase y creare otras mas 
- * 4 septiembre 2018
+
  *
  * @author Manuela Garcia Monsalve 
  */
