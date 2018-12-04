@@ -1,7 +1,7 @@
 /**
  * esta clase es una de las interfases que usaremos
  * para los empleados del proyecto
- * 4 septiembre de 2018
+ 
  * @author manuela garcia
  *
  */
@@ -9,7 +9,7 @@ public interface Enfermedades {
 	
 	public void Gripa(); //metodo abstracto de enfermedad (gripa)
 	
-	public void Migraña(); //metodo abstracto de enfermedad (migraña )
+	public void MigraÃ±a(); //metodo abstracto de enfermedad (migraÃ±a )
 	
 	public void gastritis(); // metodo abstracto de enfermedad(gastritis)
 	
