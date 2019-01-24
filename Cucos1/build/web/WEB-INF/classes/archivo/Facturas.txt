@@ -1,0 +1,7 @@
+Andres Rodriguez;3214453432;Calle 56 # 34 56;1;8500;102000;Tangas;12
+Laura Camila;3451234532;Avenida 12 # 45 67;2;12300;12300;Cucos;1
+Maicol Pulido;3192748782;Calle 70 b sur # 78 a 30;3;12300;49200;Cucos;4
+Andrea Lopez;3214567909;Calle 12 # 34 65;4;15500;31000;Encaje;2
+Felipe Castillo;3214567654;Calle 13 # 76 55;5;15500;31000;Encaje;2
+Manuela Garcia;3104897162;Calle 34 # 45 34;6;15500;31000;Encaje;2
+
